@@ -17,7 +17,7 @@ public class Main {
         int die= (int) (Math.random()*6+1);
         int coin= (int) (Math.random()*2);
         int die2= (int) (Math.random()*6+1) + (int) (Math.random()*6+1);
-        int y= (int) (Math.random()*25+65);
+        int y= (int) (Math.random()*36+65);
         double x= (Math.random()*9+1);
 
         System.out.println(z);
